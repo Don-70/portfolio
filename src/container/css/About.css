@@ -1,0 +1,36 @@
+.head-text {
+    font-size: 2.75rem;
+    font-weight: 800;
+    text-align: center;
+    color: var(--black-color);
+    text-transform: capitalize;
+}
+
+.p-text {
+    font-size: 0.8rem;
+    text-align: left;
+    color: var(--gray-color);
+    line-height: 1.5;
+}
+
+.bold-text {
+    font-size: 1rem;
+    font-weight: 800;
+    color: var(--black-color);
+    text-align: left;
+}
+.app__profiles {
+    display: flex;
+    justify-content: space-around;
+    align-items: wrap;
+    margin-top: 2rem;
+
+}
+
+.app__profiles-items {
+    width: 190px;
+    display:flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}

@@ -1,0 +1,45 @@
+.con-container {
+    
+    height: 800px;
+    text-align: start;
+    min-height: fit-content;
+    background-image: url('../assets/Home/los\ angeles.webp');
+    background-size: cover;
+    
+}
+
+.linkedIn2 {
+  
+    width: 25%;
+}
+
+.gitHub2 {
+    width: 25%;
+}
+
+
+
+@media screen and (max-width: 810px){
+    .con-container {
+        margin: 0 !important;
+            height:500px;
+            width:500;
+            margin-top: -90px;
+        }
+        .who {
+            font-size: 8px;
+            text-align: right;
+    }
+}
+
+@media screen and (max-width: 375px){
+.con-container {
+    height:390px;
+    width:390px;
+    margin-top: -90px;
+}
+.who {
+    font-size: 10px;
+    text-align: right;
+}
+}

@@ -1,0 +1,114 @@
+.app-optins{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5rem;
+}
+
+.app__content-{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.pet-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+  
+}
+
+.Pet-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/Screen\ Shot\ 2022-10-23\ at\ 3.52.04\ PM.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.Pet-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.stg-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+  
+}
+
+.stg-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/Screen\ Shot\ 2022-10-23\ at\ 4.22.28\ PM.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.stg-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.poem-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+   
+}
+
+.poem-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/Screen\ Shot\ 2022-10-23\ at\ 4.27.14\ PM.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.poem-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.ga-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+   
+}
+
+.ga-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/Screen\ Shot\ 2022-10-24\ at\ 3.10.23\ AM.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.ga-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}

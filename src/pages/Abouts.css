@@ -1,0 +1,51 @@
+.pro-container {
+    
+    height: 800px;
+    text-align: start;
+    min-height: fit-content;
+    background-image: url('../assets/Home/above.png');
+    background-size: cover;
+    
+}
+
+p { 
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 10vh;
+    margin-right: 1vh;
+}
+
+@media screen and (max-width: 910px){
+    .profile-pic{
+        height: 320px;
+        width: 320px;
+        margin: 0 0px 0 4px;
+    }
+
+}
+@media screen and (max-width: 810px){
+    .pro-container {
+        margin: 0 !important;
+            height:400px;
+            width:425px;
+            margin-top: -90px;
+        }
+        .who {
+            font-size: 8px;
+            text-align: right;
+    }
+}
+
+@media screen and (max-width: 375px){
+.pro-container {
+    height:390px;
+    width:390px;
+    margin-top: -90px;
+}
+.who {
+    font-size: 10px;
+    text-align: right;
+}
+}

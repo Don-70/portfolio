@@ -1,0 +1,378 @@
+.skills-ep{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 10%;
+    width: 100%;
+    min-height: 400px;
+    background-image: url('../../assets/Home/ga-teaching.jpeg');
+    background-size: cover;
+    padding: 5rem;
+    margin-top: 3rem;
+    color:black
+
+}
+
+
+.app__content-{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.js-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+  
+}
+
+.js-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/js.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.js-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.css-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+  
+}
+
+.css-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/css.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.css-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.sass-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.sass-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/sass.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.sass-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.html-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.html-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/html.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.html-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.react-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.react-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/reacttt.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.react-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.boot-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.boot-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/boot.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.boot-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.git-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.git-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/git.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.git-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.node-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.node-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/node.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.node-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.db-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.db-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/db.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.db-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.post-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.post-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/post.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.post-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.trel-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.trel-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/trel.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.trel-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.python-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.python-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/python-clojure-javascript-png-favpng-RmbU5LMB5QNnST8aj0n7Sw8RJ.jpeg");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.python-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.hero-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.hero-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/hero.png");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.hero-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+.net-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0pc rgb(3, 3, 3);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+   
+}
+
+.net-back{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../assets/Home/net.webp");
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+.net-back:hover{
+    transform: scale(1.05);
+    transition: all 1.8s ease-in-out;
+}
+
+
+
+
+
